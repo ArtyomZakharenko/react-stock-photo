@@ -103,6 +103,7 @@ function App() {
 			</section>
 			<section className="photos">
 				<div className="photos-center">
+					{!photos.length && <h2>No photos</h2>}
 					{photos.map((item: any, index) => {
 						return <Photo key={index} {...item}/>
 					})}
