@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Stock Photos project 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple React app that uses the [Unsplash API](https://unsplash.com/developers) to search for stock photos.
+Live demo [here](https://stock-photos-1212.netlify.app/)
 
 ## Available Scripts
 
